@@ -13,7 +13,7 @@ Any information breach or sharing of information with non-authorized third parti
 
 ## Task
 Develop a web application that allows you to manage mappers and missions.
-The missions are divided into campaigns, the campaigns are composed of description and name
+Missions belong to campaigns, the campaigns are composed of description and name
 There is no need for a database, static data is enough.
 
 Let's divide it into two sections:
