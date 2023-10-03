@@ -1,0 +1,51 @@
+[
+  {
+    "id": 4567,
+    "campaign_id": 7321,
+    "description": "A bustling shopping district with trendy boutiques, bustling cafes, vibrant street art, and a lively atmosphere for urban exploration.",
+    "mapper_ids": [3426, 3451],
+    "completed": true
+  },
+  {
+    "id": 7890,
+    "campaign_id": 7321,
+    "description": "A bustling shopping district with trendy boutiques, bustling cafes, vibrant street art, and a lively atmosphere for urban exploration.",
+    "mapper_ids": [3425],
+    "completed": true
+  },
+  {
+    "id": 1234,
+    "campaign_id": 7321,
+    "description": "A quiet residential street with charming houses, blooming gardens, and a peaceful atmosphere for a relaxing walk.",
+    "mapper_ids": [3425, 3452],
+    "completed": false
+  },
+  {
+    "id": 5678,
+    "campaign_id": 7321,
+    "description": "A modern office building with sleek architecture, impressive views, and a professional atmosphere for a productive workday.",
+    "mapper_ids": [3426, 3450, 3454],
+    "completed": false
+  },
+  {
+    "id": 9012,
+    "campaign_id": 7321,
+    "description": "A historic landmark with stunning architecture, rich history, and a cultural atmosphere for an educational visit.",
+    "mapper_ids": [3427],
+    "completed": true
+  },
+  {
+    "id": 3456,
+    "campaign_id": 7321,
+    "description": "A beautiful park with lush greenery, serene ponds, and a peaceful atmosphere for a relaxing picnic.",
+    "mapper_ids": [3428, 3453],
+    "completed": false
+  },
+  {
+    "id": 7891,
+    "campaign_id": 7321,
+    "description": "A vibrant music venue with live performances, energetic crowds, and a lively atmosphere for a fun night out.",
+    "mapper_ids": [3429],
+    "completed": false
+  }
+]

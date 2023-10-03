@@ -1,0 +1,110 @@
+[
+  {
+    "id": 9823,
+    "name": "EcoMap Initiative",
+    "description": "Join our campaign to map and monitor ecological hotspots around the world. Help us protect biodiversity and conserve natural habitats.",
+    "progress": 85
+  },
+  {
+    "id": 7321,
+    "name": "Urban Mapping Project",
+    "description": "Contribute to our urban mapping project and help create detailed maps of cities. Your data will support urban planning and infrastructure development.",
+    "progress": 70
+  },
+  {
+    "id": 5412,
+    "name": "Coastal Mapping Expedition",
+    "description": "Embark on an exciting coastal mapping expedition. Help us collect geolocation data to monitor coastal erosion, habitats, and marine biodiversity.",
+    "progress": 92
+  },
+  {
+    "id": 2894,
+    "name": "Community Mapping Campaign",
+    "description": "Be part of a community mapping campaign to identify and map local resources, landmarks, and points of interest. Empower your community through geolocation data.",
+    "progress": 78
+  },
+  {
+    "id": 6278,
+    "name": "Wildlife Tracking Initiative",
+    "description": "Join our wildlife tracking initiative and help map animal migration routes and habitats. Contribute to conservation efforts and protect endangered species.",
+    "progress": 63
+  },
+  {
+    "id": 4135,
+    "name": "Mapping for Disaster Resilience",
+    "description": "Support our campaign to map vulnerable areas prone to natural disasters. Your data will assist in disaster preparedness, response, and recovery efforts.",
+    "progress": 89
+  },
+  {
+    "id": 1876,
+    "name": "Rural Infrastructure Mapping",
+    "description": "Help us map rural areas and identify infrastructure needs such as roads, schools, and healthcare facilities. Improve access and quality of life for rural communities.",
+    "progress": 76
+  },
+  {
+    "id": 5432,
+    "name": "Mapping Indigenous Territories",
+    "description": "Support our campaign to map and document indigenous territories. Help preserve cultural heritage, land rights, and promote sustainable development.",
+    "progress": 84
+  },
+  {
+    "id": 9123,
+    "name": "Mapping Air Quality",
+    "description": "Contribute to our campaign to map air quality levels in different regions. Help raise awareness about pollution and support initiatives for cleaner air.",
+    "progress": 72
+  },
+  {
+    "id": 6543,
+    "name": "Mapping Water Resources",
+    "description": "Join our campaign to map water resources such as rivers, lakes, and groundwater. Contribute to better water management and conservation efforts.",
+    "progress": 91
+  },
+  {
+    "id": 3789,
+    "name": "Mapping Public Transportation",
+    "description": "Help create accurate maps of public transportation routes and stops. Improve accessibility and efficiency of public transportation systems.",
+    "progress": 68
+  },
+  {
+    "id": 2389,
+    "name": "Mapping Natural Disasters",
+    "description": "Support our campaign to map areas prone to natural disasters such as earthquakes, floods, and wildfires. Aid in disaster preparedness and response planning.",
+    "progress": 83
+  },
+  {
+    "id": 9765,
+    "name": "Mapping Cultural Heritage Sites",
+    "description": "Contribute to our campaign to map and preserve cultural heritage sites around the world. Help protect and promote cultural diversity and historical landmarks.",
+    "progress": 79
+  },
+  {
+    "id": 5431,
+    "name": "Mapping Renewable Energy Potential",
+    "description": "Join our campaign to map areas with high potential for renewable energy generation such as solar and wind. Support the transition to clean and sustainable energy sources.",
+    "progress": 88
+  },
+  {
+    "id": 6542,
+    "name": "Mapping Wildlife Corridors",
+    "description": "Help us map and protect wildlife corridors, essential pathways for animal migration and genetic diversity. Contribute to wildlife conservation and habitat connectivity.",
+    "progress": 75
+  },
+  {
+    "id": 7890,
+    "name": "Mapping Food Deserts",
+    "description": "Support our campaign to map areas with limited access to fresh and healthy food options. Help address food insecurity and promote equitable access to nutritious food.",
+    "progress": 82
+  },
+  {
+    "id": 4321,
+    "name": "Mapping Bike-friendly Routes",
+    "description": "Contribute to our campaign to map bike-friendly routes and infrastructure. Encourage cycling as a sustainable and healthy mode of transportation.",
+    "progress": 77
+  },
+  {
+    "id": 9876,
+    "name": "Mapping Environmental Pollution",
+    "description": "Join our campaign to map areas affected by environmental pollution such as industrial emissions and waste sites. Raise awareness and advocate for cleaner environments.",
+    "progress": 90
+  }
+]
