@@ -25,3 +25,12 @@ All you have to do is list view.
 
 The presentation of the data is also evaluated as well as the technical solution.
 
+## Solution
+
+The solution uses Next.JS, you can run it by:
+
+1. Install the dependencies by running the command `npm install`
+2. Then, start the development server by running the command `npm run dev`
+3. Finally, [open it in a browser](http://localhost:3000)
+
+I've also deployed, so it can also be accessed at https://mind-earth.vercel.app/
